@@ -9,8 +9,8 @@
 - 📫 How to reach me ...  
           Email : coder.shantanu@gmail.com
           LinkedIn : https://www.linkedin.com/in/shantanu-bindhani-03757a1b5/
-          Instagram : @shantnau_shan_
-          Twitter : @ro_Shan_B
+          Instagram : @blank_0x57c
+          Twitter : @BLANK_0x57c
 <!---
 shantanubindhani/shantanubindhani is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
