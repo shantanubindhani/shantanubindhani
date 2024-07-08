@@ -7,7 +7,7 @@
 
 - I’m looking to collaborate on **Projects based on Android and software Development**
 
-- 👨‍💻 Portfolio [shantanubindhani.github.io](https://shantanubindhani.github.io/)
+- 👨‍💻 Portfolio [shantanubindhani.github.io](https://shantanubindhani.github.io/portfolio)
 
 - 📫 How to reach me **shantanubindhani1805@gmail.com**
 
